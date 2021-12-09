@@ -1,4 +1,5 @@
 Prerequisities
-scenario
+scenaryo
 expected result
+Rusult actual
 
