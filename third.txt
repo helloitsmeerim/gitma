@@ -2,4 +2,6 @@ Prerequisities
 scenaryo
 expected result
 Rusult actual
+one more
+diff for stage
 
