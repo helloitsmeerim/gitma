@@ -1,1 +1,2 @@
-<em>Git is great</em>
+
+<strong>Git is great</strong>
