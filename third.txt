@@ -1,5 +1,4 @@
-Prerequisities
-scenaryo
+1
 expected result
 Rusult actual
 one more
